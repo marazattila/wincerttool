@@ -1,8 +1,7 @@
 {
   "profiles": {
     "WinCertTool": {
-      "commandName": "Project",
-      "commandLineArgs": "add \"C:\\certs\\blahblahblah.cer\""
+      "commandName": "Project"
     }
   }
 }
